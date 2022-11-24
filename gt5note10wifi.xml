@@ -12,7 +12,7 @@
   <project path="kernel/samsung/msm8916" name="bobbydev21/android_kernel_samsung_msm8916" remote="github" revision="fresh-allinone-binder-12.0"/>
 
  <!-- Vendor Trees (for Samsung Tab A/E devices) -->
-  <project path="vendor/samsung/msm8916-common" name="bobbydev21/vendor_samsung_msm8916-common"  remote="github" revision="lineage-19.1"/>
+  <project path="vendor/samsung/msm8916-common" name="bobbydev21/android_vendor_samsung_msm8916-common"  remote="github" revision="lineage-19.1"/>
   <project path="vendor/samsung/gte-common" name="bobbydev21/android_vendor_samsung_gte-common"  remote="github" revision="lineage-19.1"/>
   <project path="vendor/samsung/gt5note10wifi" name="bobbydev21/android_vendor_samsung_gt5note10wifi"  remote="github" revision="lineage-19.1"/>
 
